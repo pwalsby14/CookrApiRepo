@@ -9,3 +9,14 @@ C:\Users\Peter\source\repos\CookrApi\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.A
 C:\Users\Peter\source\repos\CookrApi\CookrApi\bin\Debug\netcoreapp2.0\CookrApi.pdb
 C:\Users\Peter\source\repos\CookrApi\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.dll
 C:\Users\Peter\source\repos\CookrApi\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.pdb
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\bin\Debug\netcoreapp2.0\CookrApi.deps.json
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\bin\Debug\netcoreapp2.0\CookrApi.runtimeconfig.json
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\bin\Debug\netcoreapp2.0\CookrApi.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\bin\Debug\netcoreapp2.0\CookrApi.dll
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\bin\Debug\netcoreapp2.0\CookrApi.pdb
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.csprojResolveAssemblyReference.cache
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.AssemblyInfo.cs
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.dll
+C:\Users\Peter\source\repos\CookrApi\CookrApiRepo\CookrApi\obj\Debug\netcoreapp2.0\CookrApi.pdb
